@@ -47,7 +47,7 @@ h2 {
   color: var(--drk-gry-magenta);
   line-height: 25px;
   letter-spacing: -0.5px;
-  width: 21em;
+  width: 25em;
   text-align: center;
   margin: 20px auto 40px;
 }
@@ -168,7 +168,7 @@ footer {
   header,
   .card_holder,
   .rating_holder {
-    width: 23em;
+    width: 25em;
     margin: 0 auto;
   }
 
